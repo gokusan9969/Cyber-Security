@@ -5,3 +5,5 @@ In this project, you will produce return-oriented programming (ROP) attacks. You
 Your target is still the vulnerable ls program, which I believe you are all very familiar with. You can reuse your previous scripts. Your task is to spawn a shell using ROP.
 
 # Implement ROP Attack on Vulnerable Binary File
+
+•	Command: ./proj1_dep_Shetty.Shreyas `python ./srop.py`
