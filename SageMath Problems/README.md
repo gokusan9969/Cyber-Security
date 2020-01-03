@@ -12,7 +12,18 @@ Note: Translate the numbers into polynomials and recover the results back to HEX
 
 - F4+65
 
+![Output 1](HW3-QT1.png)
+
+
 - 76*B3
 
+
+![Output 2](HW3-QT2.png)
+
+
+
 - 78^-1
+
+
+![Output 3](HW3-QT3.png)
 
