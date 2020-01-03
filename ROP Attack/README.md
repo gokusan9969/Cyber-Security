@@ -7,3 +7,7 @@ Your target is still the vulnerable ls program, which I believe you are all very
 # Implement ROP Attack on Vulnerable Binary File
 
 •	Command: ./proj1_dep_Shetty.Shreyas `python ./srop.py`
+
+# Screenshot:
+
+![OUTPUT](output.png)
